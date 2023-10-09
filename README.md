@@ -12,7 +12,7 @@ This project is a machine learning-based email spam classifier that uses the [Sp
 
 - Model Selection: Different machine learning models are evaluated for their performance, including Logistic Regression, and Random Forest.
 
-- Model Evaluation: The models are evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC to determine their effectiveness in classifying spam.
+- Model Evaluation: The models are evaluated using metrics like accuracy, precision, recall, and F1-score to determine their effectiveness in classifying spam.
 
 - Feature Selection: Relevant features that have the most impact on spam classification are identified and used to train the final model.
 
